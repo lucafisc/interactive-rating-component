@@ -28,7 +28,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 
 ### Links
@@ -77,4 +77,4 @@ function defineRating(btn) {
 ## Author
 
 - Website - [Luca Fischer](https://github.com/lucafisc)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/lucafisc)
+- Frontend Mentor - [@lucafisc](https://www.frontendmentor.io/profile/lucafisc)
