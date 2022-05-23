@@ -17,15 +17,18 @@
 
 body {
   background-color: var(--very-dark-blue);
+
+}
+
+.main {
   height: 100vh;
   display: flex;
   flex-direction: column;
   justify-content: center;
-  margin: 0 auto;
+  margin: 0 auto !important;
 }
 
 .titles {
-  font-family: ;
   color: white;
   font-weight: 700;
   font-size: 30px;
